@@ -1,6 +1,7 @@
 img.icons{
   border-radius: 10px;
   width: 50px;
+  margin: 20px;
 }
 
 li.icons{
@@ -9,4 +10,8 @@ li.icons{
 
 ul{
   text-align: center;
+}
+
+a{
+  text-decoration: none;
 }
