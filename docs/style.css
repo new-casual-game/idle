@@ -12,6 +12,6 @@ ul{
   text-align: center;
 }
 
-a{
+a, a:hover{
   text-decoration: none;
 }
